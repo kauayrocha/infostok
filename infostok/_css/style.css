@@ -1,0 +1,88 @@
+/* Styles for header */
+
+
+
+/* estilo para a logo*/
+.img-logo>img{
+    width: 350px;
+    padding: 15px;
+    align-items: center;
+}
+
+
+
+main{
+    margin-bottom: 30px;
+    position: relative;
+}
+
+/* styles for form login */
+
+.alinhar-formulario{
+    width: 300px;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn{
+    margin-top: 10px;
+    width: 100%;
+}
+
+
+/* estilo para rodape */
+
+footer#footer-login{
+    text-align: center;
+    position: static;
+    bottom: 0px;
+    margin-bottom: 0;
+
+
+}
+.footer {
+    position: fixed;
+    bottom: 0px;
+    background-color: white;
+    width: 100%;
+    margin-top: 30px;
+
+}
+.footer>p{
+    font-size: 10px;
+    margin-top: 5px;
+    text-align: left;
+    margin-left: 15px;
+    height: 5px;
+    font-family: "roboto", "verdana", "sans-serif";
+}
+
+
+
+
+
+/* estilo do Cadastro Tipo de item */
+h3{
+    text-align: center;
+}
+
+
+/* formulario cadastrar item */
+.alinhar-formulario-2{
+    width: 520px;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+

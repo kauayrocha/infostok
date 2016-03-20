@@ -1,0 +1,96 @@
+/* styles principais */
+header {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    position: relative;
+    background-color: #fff;
+    text-transform: uppercase;
+
+}
+/* dando dimenssões pro main */
+main {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    position: relative;
+    background-color: #fff;
+
+
+}
+body{
+    width: 100%;
+    background-color: #FFF;
+
+}
+/* aqui está o tamanho do banner */
+.screen_medium{
+    width: 100%;
+    height: 80%;
+}
+.img-left{
+    width: 200px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* _css menu asidebar*/
+.nav_menu {
+    width: 100%;
+    background-color: #FFFAFA;
+    text-align: center;
+    margin-top: 10px;
+    height: 50px;
+
+}
+/* Li para menus */
+.menu_li{
+    display: inline-block;
+    background-color:#FFFAFA;
+    padding: 10px;
+    margin-right: 10px;
+    color: #4D4D4D;
+    font-family: "roboto", "verdana", "sans-serif";
+    margin-top: 5px;
+}
+.menu_li:hover{
+    border-bottom: solid 5px #6D0001;
+    background-color:#ffffff ;
+    color: #4D4D4D;
+}
+
+
+/* first imagem construction */
+.aling_img_predio>img{
+    width: 100%;
+    height: 400px;
+    margin-top: 10px;
+
+}
+a{
+    color:#4D4D4D;
+}
+a:hover{
+    color:#4D4D4D;
+}
+a:link{
+    font-style: normal;
+    font-family: "ARIAL";
+    color:#4D4D4D;
+    text-decoration: none;
+}
+
+.orcamento{
+    text-align: left;
+    font-family: "roboto", "verdana", "sans-serif";
+    width: 500px;
+    color: #4D4D4D;
+    margin-top: 30px;
+    margin-bottom: 150px;
+}
+.titulos-h2{
+    text-align: center;
+}
